@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// STABLE SORT
 void bubble_sort(int arr[], int n)
 {
     // bubble sort
